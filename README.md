@@ -61,8 +61,6 @@ npn run dev
 
 ### Deployment
 
-For server update, when code is changed run following commands:
-
 
 <a href="https://vocal-horse-75f9bb.netlify.app/" target="_blank">here</a>
 
