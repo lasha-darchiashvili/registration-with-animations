@@ -64,7 +64,7 @@ npn run dev
 For server update, when code is changed run following commands:
 
 ```sh
-https://vocal-horse-75f9bb.netlify.app/
+<a href="https://vocal-horse-75f9bb.netlify.app/" target="_blank">here</a>
 ```
 
 #
