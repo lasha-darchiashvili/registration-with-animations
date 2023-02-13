@@ -11,7 +11,7 @@
 
 ### Project Info
 
-Project is about Covid Questionary and consists of several pages. User should fill out the forms and pass validations. Forms contain multiple choice questions and different kind of inputs. After registration information is sent via API call. Please keep in mind in order to pass email validation you must enter email which ends with '@covid.ge'.
+My portfolio is a visually stunning single-page application built on React, featuring a collection of my best works and projects. With engaging animations, visitors can seamlessly navigate through my portfolio and experience a showcase of my skills and expertise. The intuitive design and user-friendly interface provide an immersive and delightful user experience, making it easy for potential clients or employers to discover my talents and capabilities. In addition user-friendly interface, my portfolio is also fully responsive.
 
 #
 
@@ -21,12 +21,13 @@ Project is about Covid Questionary and consists of several pages. User should fi
 - HTML 5
 - JavaScript ES3
 - Tailwind UI.
+- React
 
 #
 
 ### Tech Stack
 
-- Vue 3
+- React
 - Tailwind UI for styling.
 
 #
@@ -54,7 +55,7 @@ Instal package
 Run following commands:
 
 ```sh
-npn run dev
+npn start
 ```
 
 #
@@ -62,11 +63,11 @@ npn run dev
 ### Deployment
 
 
-<a href="https://vocal-horse-75f9bb.netlify.app/" target="_blank">here</a>
+<a href="https://vocal-creponne-e3313a.netlify.app" target="_blank">here</a>
 
 
 #
 
 ### Additional Info
 
-Please keep in mind that project only works on 1920x1080 resolution.
+For several animations Framer Motion is used. And react-anchor-link-smooth-scroll for smooth scrolling.
